@@ -55,4 +55,4 @@ def rps():
 
         break
 if __name__ == '__main__' :
-    start_server(rps,port=7860,debug=False)
+    start_server(rps,port=8000,debug=False)
